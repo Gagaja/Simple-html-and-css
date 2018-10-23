@@ -1,0 +1,33 @@
+h1{
+    border-bottom: 1px solid #bdbdbd;
+}
+table{
+    width: 100%;
+    
+}
+.table_section th{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #a3a3a3;
+    border-collapse: collapse;
+    background: blue;
+    color: #fff;
+}
+.table_section td {
+    
+    padding:10px;
+    border: 1px solid #a3a3a3;
+    border-collapse: collapse;
+   text-align: center;
+   background: #e4e3e3;
+}
+td[colspan="3"]{
+    text-align: right;
+    font-weight: bold;
+    background: #008000;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+

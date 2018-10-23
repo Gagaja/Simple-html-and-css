@@ -1,0 +1,15 @@
+.border_top{
+    border-bottom: 2px solid #0000ff;
+    border-top: 10px solid #008000;
+    border-right: 6px solid #ff0000;
+    font-weight: bold;
+    font-size: 30px;
+}
+.border_down{
+   padding: 10px;
+    border-left: 2px solid #0000ff;
+    
+    border-bottom: 2px solid #ebebeb;
+    
+    height: 50px;
+}

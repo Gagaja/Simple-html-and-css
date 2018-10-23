@@ -1,0 +1,38 @@
+.mix p{
+    font-size: 35px;
+    color: #008000;
+    font-weight: bold;
+}
+.mix>ul{
+    list-style-type: circle;
+}
+.mix>ul>li{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.mix>ul>ul{
+    list-style-type: square;
+}
+.mix>ul>ol{
+    list-style-type: upper-alpha;
+    font-size: 18px;
+    color: #008000;
+
+}
+.mix>ul>ul>li{
+    color: #ffa500;
+    font-size: 18px;
+
+}
+
+.mix>ul>ul{
+    list-style-type: square;
+}
+.mix>ul>ul>ol{
+    list-style-type: lower-alpha;
+}
+.mix>ul>ul>ol>li{
+    color: #ff0000;
+    font-size: 18px;
+}
